@@ -11,3 +11,9 @@ TOPIC 2:
 https://www.instructables.com/NodeMCU-MQTT-Basic-Example/
   
 TOPIC 3:
+#VOICE BASED HOME AUTOMATION USING NODE MCU AND MIT APP INVENTOR
+https://how2electronics.com/wifi-voice-controlled-home-automation-esp8266/
+  
+TOPIC 4:
+#NODEMCU THINGSPEAK DHT SENSOR DATA PUBSUB ARDUINO IDE
+https://randomnerdtutorials.com/esp8266-nodemcu-thingspeak-publish-arduino/
