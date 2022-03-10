@@ -1,19 +1,33 @@
 
 TOPIC 1:
-#NODE MCU Access point setup
-import numpy as np
-https://www.martyncurrey.com/esp8266-and-the-arduino-ide-part-2-control-an-led-from-a-web-page-using-access-point-mode-ap/
-  OR
-https://randomnerdtutorials.com/esp8266-nodemcu-access-point-ap-web-server/
+       #NODE MCU Access point setup
+       https://www.martyncurrey.com/esp8266-and-the-arduino-ide-part-2-control-an-led-from-a-web-page-using-access-point-mode-ap/
+            OR
+       https://randomnerdtutorials.com/esp8266-nodemcu-access-point-ap-web-server/
 
 TOPIC 2:  
-#NODEMCU MQTT PROTOCOL OPERATIONS EXAMPLE:
-https://www.instructables.com/NodeMCU-MQTT-Basic-Example/
+       #NODEMCU MQTT PROTOCOL OPERATIONS EXAMPLE:
+       https://www.instructables.com/NodeMCU-MQTT-Basic-Example/
   
 TOPIC 3:
-#VOICE BASED HOME AUTOMATION USING NODE MCU AND MIT APP INVENTOR
-https://how2electronics.com/wifi-voice-controlled-home-automation-esp8266/
-  
+       #VOICE BASED HOME AUTOMATION USING NODE MCU AND MIT APP INVENTOR
+       https://how2electronics.com/wifi-voice-controlled-home-automation-esp8266/
+       (MIT APP INVENTOR-TEXT TO SPEECH , SPEECH TO TEXT APP CREATION)
+    
 TOPIC 4:
-#NODEMCU THINGSPEAK DHT SENSOR DATA PUBSUB ARDUINO IDE
-https://randomnerdtutorials.com/esp8266-nodemcu-thingspeak-publish-arduino/
+       #NODEMCU THINGSPEAK DHT SENSOR DATA PUBSUB ARDUINO IDE
+       https://randomnerdtutorials.com/esp8266-nodemcu-thingspeak-publish-arduino/
+           OR
+       https://randomnerdtutorials.com/esp8266-dht11dht22-temperature-and-humidity-web-server-with-arduino-ide/
+       (NODE MCU DHT WEB SERVER ARDUINO IDE)
+  
+TOPIC 5:
+  #NODEMCU PIR MOTION DETECTION WEB SERVER WITH EMAIL ALERT
+  https://microcontrollerslab.com/esp8266-iot-motion-detection-web-server-with-email-alert/
+    
+TOPIC 6:
+  
+    
+    
+    
+    
