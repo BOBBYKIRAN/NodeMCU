@@ -26,7 +26,8 @@ TOPIC 5:
   https://microcontrollerslab.com/esp8266-iot-motion-detection-web-server-with-email-alert/
     
 TOPIC 6:
-  
+  #Home Automation using Google Assistant, Blynk, IFTTT, NodeMCU ESP8266
+  https://www.youtube.com/watch?v=1RkOMxuPvMw         
     
     
     
