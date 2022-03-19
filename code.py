@@ -27,7 +27,21 @@ TOPIC 5:
     
 TOPIC 6:
   #Home Automation using Google Assistant, Blynk, IFTTT, NodeMCU ESP8266
-  https://www.youtube.com/watch?v=1RkOMxuPvMw         
+  https://www.youtube.com/watch?v=1RkOMxuPvMw    
+ 
+TOPIC 7:
+   # ALEXA NODEMCU IOT ROOM AUTOMATION
+https://github.com/prasadnoolu/ALEXA_UPDATED_NODEMCU/blob/main/finalcode.ino
+       
+   #ALEXA HOME AUTOMATION WITH TEMPARATURE AND HUMIDITY
+https://github.com/sandeepsrisiva/alexahomeautomation-with-temperature-and-Humidity
+                             
+              OR
+   #ALEXA HOME AUTOMATION DASHBOARD SETUP
+https://github.com/sandeepsrisiva/alexahomeautomation-with-temperature-and-Humidity/blob/main/alexahome.ino
+       
+   #ALEXA NODEMCU DHT TEMPERATURE AND HUMIDITY DATA PUSH TO SERVER
+https://github.com/sandeepsrisiva/alexahomeautomation-with-temperature-and-Humidity/blob/main/nodemcudemopublish.ino
     
     
     
